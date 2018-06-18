@@ -1,5 +1,13 @@
 {
   "id": "__BASE__",
   "name": "Jun7Readme",
-  "screens": []
+  "screens": [
+    {
+      "id": "login",
+      "name": "Login",
+      "sourceScreenId": "Login_LoginGreen",
+      "sourceAppId": "StrawberryTemplates"
+    }
+  ],
+  "startScreen": "login"
 }
